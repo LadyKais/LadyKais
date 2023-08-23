@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @LadyKais
-- Estou aprenden a  programar
+- Estou aprendendo a  programar
 - Estou disposta a aprender novas linguagens
 
 <!---
